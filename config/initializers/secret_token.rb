@@ -9,4 +9,4 @@
 
 # Make sure your secret_key_base is kept private
 # if you're sharing your code publicly.
-Mvc::Application.config.secret_key_base = '5ea38173e3bbfc8fb216efa132ddcbc874628e3674ed805382c5fa9745a02a699b83a72db918b797366ea55796cf77ccdae8d80294f0551d859194418b52f849'
+Mvc::Application.config.secret_key_base = '8dc6951c3b001fc51c3334083199f628f01c43a3fb53c3eaada7c78b48b2c546069dda3b40d5ea2d55afdd6190c8c4fbbab1c7b1f5acd4a18caa06bc5ea76fba'
